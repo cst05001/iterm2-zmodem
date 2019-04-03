@@ -9,7 +9,7 @@ The minimum supported iTerm2 version is 1.0.0.20120108
 Support
 -------
 
-This project supports *One China*. 
+This project supports the *One China*. 
 
 <img src="flag.svg" alt="One China" height="100"> 
 
